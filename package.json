@@ -22,7 +22,7 @@
   "dependencies": {
     "@control.systems/logger": "^1.0.1",
     "@hono/zod-validator": "^0.2.0",
-    "drizzle-orm": "^0.30.0",
+    "drizzle-orm": "^0.35.0",
     "entropy-string": "^4.2.0",
     "hono": "^4.0.0",
     "postgres": "https://github.com/porsager/postgres/archive/2b85ea7fb8b50f7c69232bd8074aa11c8cbe9d3a.tar.gz",
