@@ -26,7 +26,7 @@
     "entropy-string": "^4.2.0",
     "hono": "^4.0.0",
     "postgres": "https://github.com/porsager/postgres/archive/2b85ea7fb8b50f7c69232bd8074aa11c8cbe9d3a.tar.gz",
-    "rate-limiter-flexible": "^5.0.0",
+    "rate-limiter-flexible": "^8.0.0",
     "zod": "^3.22.4"
   }
 }
