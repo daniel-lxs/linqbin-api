@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "@control.systems/logger": "^1.0.1",
-    "@hono/zod-validator": "^0.2.0",
+    "@hono/zod-validator": "^0.9.0",
     "drizzle-orm": "^0.30.0",
     "entropy-string": "^4.2.0",
     "hono": "^4.0.0",
